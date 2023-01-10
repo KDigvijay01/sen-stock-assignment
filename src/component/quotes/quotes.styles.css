@@ -1,0 +1,56 @@
+
+
+.quotesTable__container{
+    background: url("https://png.pngtree.com/thumb_back/fh260/back_our/20190625/ourmid/pngtree-financial-economy-stock-banner-poster-image_261098.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 28px;
+    gap: 50px;
+}
+
+.quotesTable__header_span{
+    font-family: 'Montserrat' !important;
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 67.6067px !important;
+    line-height: 76px !important;
+    color: #fff !important;
+}
+
+.magicColorsForText{
+    background-image: linear-gradient(70deg, #B224EF 10%,#5927E5 100%); 
+    background-size: 100%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+}
+
+.quotesTable__header a{
+    border: 1px solid;
+    height: min-content;
+    white-space: nowrap;
+    padding: 10px 28px;
+    border-radius: 7px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+
+}
+
+.quotesTable__header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.quotesTable__Content{
+
+}
+
